@@ -48,7 +48,7 @@ data-cleaning-sample/
 ## 使い方
 
 ```bash
-pip install pandas openpyxl
+pip install -r requirements.txt
 python clean.py
 ```
 

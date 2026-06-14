@@ -8,5 +8,5 @@ venv/
 Thumbs.db
 .DS_Store
 
-# 一時ファイル
+# Temporary files
 output/_preview.csv
